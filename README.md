@@ -3,6 +3,7 @@ A list of Projects and Single Page Applications (SPA) that I have created or am 
 
 ### React Projects
 
+- [Phone Shop using React Router](https://github.com/Rezwan66/phone-shop-react-router)
 - [Amazon like SPA using React Router](https://github.com/Rezwan66/amazon-like-spa)
 - [Meal DB Meal Selector Website using React Router](https://github.com/Rezwan66/mealdb-using-react-router)
 - [Avengers Team Maker SPA Game](https://github.com/Rezwan66/avengers-team-maker)
