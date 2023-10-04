@@ -1,6 +1,9 @@
 # webdev-projects
 A list of Projects and Single Page Applications (SPA) that I have created or am working on while learning Full Stack Web Development in MERN stack.
 
+### React + Firebase SDK Projects
+- [Dragon News site with Login and Registration Authentication](https://github.com/Rezwan66/dragon-news)
+
 ### React Projects
 
 - [Phone Shop using React Router](https://github.com/Rezwan66/phone-shop-react-router)
