@@ -1,6 +1,16 @@
 # webdev-projects
 A list of Projects and Single Page Applications (SPA) that I have created or am working on while learning Full Stack Web Development in MERN stack.
 
+### Personal MERN Stack/JS DOM Projects
+- Explore Nest Online Tourist Guide Platform: [client](https://github.com/Rezwan66/explore-nest-client) | [server](https://github.com/Rezwan66/explore-nest-server) | [Live Link](https://explore-nest.web.app/)
+- TravelBuddy.io Carpool and Ride-sharing: [client](https://github.com/Rezwan66/travel-buddy-io-client) | [server](https://github.com/Rezwan66/travel-buddy-io-server) | [Live Link](https://travel-buddy-io.web.app/)
+- Auto Maniac Car Brand Shop: [client](https://github.com/Rezwan66/auto-maniac-client) | [server](https://github.com/Rezwan66/auto-maniac-server) | [Live Link](https://auto-maniac.web.app/)
+- Entertainment Freak Event Management Website: [Git Repo](https://github.com/Rezwan66/entertainment-freak) | [Live Link](https://entertainment-freak.web.app/)
+- Donation Campaign Website: [Git Repo](https://github.com/Rezwan66/donation-campaign) | [Live Link](https://dazzling-zabaione-634b26.netlify.app/)
+- PH-Tube Website: [Git Repo](https://github.com/Rezwan66/phtube-website) | [Live Link](https://bejewelled-starlight-e98229.netlify.app/)
+- My Course Roster: [Git Repo](https://github.com/Rezwan66/my-course-roster) | [Live Link](https://legendary-gingersnap-10220d.netlify.app/)
+- Summer Sale Landing Page: [Git Repo](https://github.com/Rezwan66/summer-sale-website) | [Live Link](https://musical-quokka-8b2d09.netlify.app/)
+
 ### React Router + Express Js Server & Mongo DB Projects
 - A simple user-friendly hotel booking platform built using React, Firebase Auth, Token Authorization, User Roles, and Backend managed using Express JS and Mongo DB: [github repo](https://github.com/Rezwan66/stay-vista)
 - A simple responsive Restaurant Management Website created using React Router, JS, ES6, Firebase Auth,Token Authorization, User Roles, and Backend managed using Express JS and Mongo DB: [client](https://github.com/Rezwan66/bistro-boss-client) [server](https://github.com/Rezwan66/bistro-boss-server) [live site link](https://bistro-boss-a3bac.web.app/)
